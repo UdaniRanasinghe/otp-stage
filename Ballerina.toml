@@ -1,0 +1,9 @@
+[build-options]
+  observabilityIncluded = true
+
+[package]
+  distribution = "2201.4.1"
+  name = "otptest"
+  org = "udaniasgardeo"
+  version = "0.1.0"
+
